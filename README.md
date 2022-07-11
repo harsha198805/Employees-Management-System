@@ -1,16 +1,12 @@
 
 
-# Getting started
-
-## Installation
-
-
 Clone the repository
 
+git clone https://github.com/harsha198805/Employees-Management-System.git
 
 Switch to the repo folder
 
-    cd employees_mnagment_system
+    cd Employees-Management-System
 
 Install all the dependencies using composer
 
@@ -30,5 +26,8 @@ Run Migrations
 
 Db seed
  php artisan db:seed
+
+ Run Project
+  php artisan serve
     
 
