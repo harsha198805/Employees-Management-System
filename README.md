@@ -25,9 +25,11 @@ Run Migrations
     php artisan migrate
 
 Db seed
+
  php artisan db:seed
 
  Run Project
+ 
   php artisan serve
     
 
